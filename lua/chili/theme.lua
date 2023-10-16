@@ -166,7 +166,7 @@ local function get_highlights(data, custom)
     ['Type'] = { fg = p.syntax.tacao },
     ['Function'] = { fg = t.func.fg, bg = t.func.bg, bold = true },
     ['Keyword'] = { fg = p.syntax.yellow, bg = p.syntax.yellow_bg, bold = true },
-    ['Conditional'] = { fg = p.syntax.yellow },
+    ['Conditional'] = { fg = p.syntax.yellow, italic = true },
     ['Repeat'] = { fg = p.syntax.yellow },
     ['Operator'] = { fg = p.syntax.strong_yellow, bg = 'NONE' },
     ['PreProc'] = { fg = p.syntax.lavender },
