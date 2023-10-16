@@ -112,7 +112,7 @@ local theme = {
   indent_guide_fg = '#605D62',
   indent_guide_context_fg = '#B5ABFD',
   keyword = {
-    fg = '#FFEFAE',
+    fg = '#DCD7BA',
   },
   link = {
     fg = '#DCA561',
