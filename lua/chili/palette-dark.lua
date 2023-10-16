@@ -99,7 +99,7 @@ local theme = {
   float_fg = '#C0BED4',
   float_border = '#6E6A86',
   func = {
-    fg = '#badcd7',
+    fg = '#78b3bc',
     bg = '#262D3F',
   },
   git_added_fg = '#68AD99',
@@ -147,10 +147,10 @@ local theme = {
     fg = '#957FB8',
   },
   string = {
-    fg = '#FDB5AB',
+    fg = '#dcc6ba',
   },
   structure = {
-    fg = '#FDB5AB',
+    fg = '#dcc6ba',
   },
   tag = {
     fg = '#D55070',
