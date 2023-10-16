@@ -99,7 +99,7 @@ local theme = {
   float_fg = '#C0BED4',
   float_border = '#6E6A86',
   func = {
-    fg = '#7E9CD8',
+    fg = '#7ec9d8',
     bg = '#262D3F',
   },
   git_added_fg = '#68AD99',
