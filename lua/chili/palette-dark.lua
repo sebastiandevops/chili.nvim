@@ -31,7 +31,7 @@ local palette = {
     turquoise = '#25B0BC',
     yellow = '#DCD7BA',
     yellow_bg = '#312C37',
-    purple = '#7E9CD8',
+    purple = '#babfdc',
     fg = '#E0DEF4',
     blue = "#7E9CD8",
     green = "#7AA89F",
@@ -147,7 +147,7 @@ local theme = {
     fg = '#957FB8',
   },
   string = {
-    fg = '#ead9b9',
+    fg = '#FDB5AB',
   },
   structure = {
     fg = '#FDB5AB',
