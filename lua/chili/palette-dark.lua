@@ -77,7 +77,7 @@ local theme = {
     italic = true,
   },
   constant = {
-    fg = '#FF7E9B',
+    fg = '#D27E99',
   },
   cursor_bg = '#E95378',
   cursor_fg = '#1C1E26',
