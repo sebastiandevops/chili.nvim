@@ -147,7 +147,7 @@ local theme = {
     fg = '#957FB8',
   },
   string = {
-    fg = '#FDB5AB',
+    fg = '#ead9b9',
   },
   structure = {
     fg = '#FDB5AB',
