@@ -31,7 +31,7 @@ local palette = {
     turquoise = '#25B0BC',
     yellow = '#DCD7BA',
     yellow_bg = '#312C37',
-    purple = '#A39ECC',
+    purple = '#babfdc',
     fg = '#E0DEF4',
     blue = "#7E9CD8",
     green = "#7891bc",
@@ -169,6 +169,9 @@ local theme = {
   },
   variable = {
     fg = '#7FB4CA',
+  },
+  identifier = {
+    fg = '#E6C384',
   },
   visual_fg = '#1C1E26',
   visual_bg = '#E95378',
