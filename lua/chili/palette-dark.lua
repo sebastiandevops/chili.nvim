@@ -21,10 +21,10 @@ local palette = {
     },
   },
   syntax = {
-    apricot = '#FF9E3B',
+    apricot = '#D27E99',
     cranberry = '#E46876',
     gray = '#BBBBBB',
-    lavender = '#b8b4d0',
+    lavender = '#e684a7',
     rosebud = '#FAB795',
     strong_yellow = '#E6C384',
     tacao = '#FDB5AB',
