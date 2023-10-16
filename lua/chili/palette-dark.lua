@@ -147,10 +147,10 @@ local theme = {
     fg = '#957FB8',
   },
   string = {
-    fg = '#dcc6ba',
+    fg = '#bca378',
   },
   structure = {
-    fg = '#dcc6ba',
+    fg = '#bca378',
   },
   tag = {
     fg = '#D55070',
