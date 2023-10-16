@@ -215,7 +215,7 @@ local function get_highlights(data, custom)
     ['@keyword'] = { link = 'Keyword' },
     ['@keyword.return'] = { link = 'Keyword' },
     ['@keyword.operator'] = { link = 'Keyword' },
-    ['@keyword.function'] = { fg = p.syntax.green, bg = 'NONE' },
+    ['@keyword.function'] = { fg = p.syntax.green, bg = 'NONE', italic = true },
     ['@function'] = { link = 'Function' },
     ['@function.builtin'] = { link = 'Function' },
     ['@function.call'] = { link = 'Function' },
