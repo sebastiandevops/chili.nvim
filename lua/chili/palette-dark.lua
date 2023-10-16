@@ -56,7 +56,7 @@ local palette = {
     secondaryAccentAlt = '#E95378',
     shadow = '#16161C',
     tertiaryAccent = '#FAB38E',
-    warning = '#27D797',
+    warning = '#68AD99',
   },
 }
 
@@ -106,7 +106,7 @@ local theme = {
   git_deleted_fg = '#C34043',
   git_ignored_fg = '#54565C',
   git_modified_fg = '#DCA561',
-  git_untracked_fg = '#27D797',
+  git_untracked_fg = '#68AD99',
   inactive_line_number_fg = '#86829e',
   indent_guide_active_fg = '#605D62',
   indent_guide_fg = '#605D62',
