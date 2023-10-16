@@ -1,0 +1,16 @@
+{
+  "keywordStyle": "",
+  "tagStyle": "italic",
+  "colors": {
+    "foreground": "{{ syntax.gray }}",
+    "diffEditor.removedTextBackground": "#4A2024"
+  },
+  "tokenColors": [
+    {
+      "scope": "punctuation.separator",
+      "settings": {
+        "foreground": "{{ syntax.gray }}{{ alpha.med }}"
+      }
+    }
+  ]
+}
