@@ -8,7 +8,7 @@ local palette = {
       cyan = '#4d699b',
       green = '#7AA89F',
       magenta = '#D27E99',
-      red = '#E46876",
+      red = '#E46876',
       yellow = '#FBC3A7',
     },
     normal = {
