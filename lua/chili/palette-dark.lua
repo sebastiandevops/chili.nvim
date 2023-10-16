@@ -21,7 +21,7 @@ local palette = {
     },
   },
   syntax = {
-    apricot = '#D27E99',
+    apricot = '#FF9E3B',
     cranberry = '#E46876',
     gray = '#BBBBBB',
     lavender = '#b8b4d0',
