@@ -290,7 +290,7 @@ local function get_highlights(data, custom)
     ['@lsp.typemod.variable.defaultLibrary'] = { link = '@variable.builtin' },
     ['@lsp.typemod.variable.global'] = { fg = t.constant.fg, bold = true },
     ['@lsp.mod.deprecated'] = { strikethrough = true },
-    ['@lsp.type.parameter.dockerfile'] = { fg = t.identifier },
+    ['@lsp.type.parameter.dockerfile'] = { fg = p.syntax.red },
 
     -- LSP
     ['DiagnosticOk'] = { fg = custom.ok },
