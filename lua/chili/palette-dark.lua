@@ -28,7 +28,7 @@ local palette = {
     rosebud = '#FAB795',
     strong_yellow = '#E6C384',
     tacao = '#FDB5AB',
-    turquoise = '#25B0BC',
+    turquoise = '#4d699b',
     yellow = '#DCD7BA',
     yellow_bg = '#312C37',
     purple = '#c5c9c5',
@@ -39,7 +39,7 @@ local palette = {
     cyan_bg = '#262D3F',
     alt_fg = '#FFFFFF',
     red = '#c4746e',
-    purple_soft = '#ccbadc',
+    purple_soft = '#8e829a',
     reference = '#322D44',
   },
   ui = {
