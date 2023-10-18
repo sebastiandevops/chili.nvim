@@ -39,6 +39,7 @@ local palette = {
     cyan_bg = '#262D3F',
     alt_fg = '#FFFFFF',
     red = '#c4746e',
+    purple_soft = '#ccbadc',
     reference = '#322D44',
   },
   ui = {
